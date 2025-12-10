@@ -1,7 +1,7 @@
 {
   "name": "csharp-ls",
   "languageId": "csharp",
-  "command": ["$HOME/.dotnet/tools/csharp-ls"],
+  "command": ["%USERPROFILE%\\.dotnet\\tools\\csharp-ls.exe"],
   "forceInlayHint": true,
   "settings": {
     "csharp": {
